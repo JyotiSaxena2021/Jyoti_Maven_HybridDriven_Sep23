@@ -1,0 +1,5 @@
+# Created at 2023-12-23T23:48:36.910
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Git_Selenium\hybriddriven-sep23\Jyoti_Maven_HybridDrivenSelenium_Sep23\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

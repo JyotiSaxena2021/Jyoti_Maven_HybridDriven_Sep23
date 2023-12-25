@@ -1,0 +1,4 @@
+testscripts\CartTest.class
+testscripts\TestBase.class
+testscripts\LoginTest.class
+testscripts\DashboardTest.class
